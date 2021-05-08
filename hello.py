@@ -1,0 +1,1 @@
+print("hi jay, start with python!")
