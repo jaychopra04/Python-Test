@@ -1,6 +1,6 @@
 x=13
 if x>2 :
-    print('Greater')
+    print('Great')
     if x<10:
         print('Range is 3-9')
     else:
